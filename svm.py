@@ -1,3 +1,6 @@
+# https://www.analyticsvidhya.com/blog/2022/06/iris-flowers-classification-using-machine-learning/
+# https://data-flair.training/blogs/iris-flower-classification/
+
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.svm import SVC #support vector classifier
